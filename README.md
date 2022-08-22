@@ -1,0 +1,1 @@
+# test-write-package-with-descriptor-without-resources
